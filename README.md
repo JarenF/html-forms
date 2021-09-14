@@ -1,1 +1,3 @@
-# html-forms
+# HTML forms
+
+practice for thinkful checkpoint
